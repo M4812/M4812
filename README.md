@@ -22,9 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Main_Language-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="35" alt="C#" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Scripts-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35" alt="JavaScript" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=M4812&theme=radical" height="180" alt="Top Langs" />
 </p>
 
 ---
