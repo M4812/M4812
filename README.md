@@ -12,7 +12,9 @@
 ### 📊 Dev Status
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/M4812?template=classic&base=header%2C+activity%2C+community%2C+repositories&config.timezone=Asia%2FShanghai" alt="GitHub Stats" />
+  <img src="https://img.shields.io/badge/Contributions-34_Total-ff69b4?style=for-the-badge&logo=github" alt="Contributions" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Environment-Windows_Server_%2F_Linux-blue?style=for-the-badge&logo=microsoft" alt="Environment" />
 </p>
 
 <p align="center">
