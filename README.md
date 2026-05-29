@@ -12,13 +12,15 @@
 ### 📊 Dev Status
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M4812&show_icons=true&theme=radical&rank_icon=github" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=M4812&show_icons=true&theme=radical&rank_icon=github&cache_seconds=1800" height="180" alt="GitHub Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=M4812&theme=radical" height="180" alt="GitHub Streak" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4812&layout=compact&theme=radical" height="180" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=M4812&layout=compact&theme=radical&cache_seconds=1800" height="180" alt="Top Langs" />
 </p>
 
 ---
