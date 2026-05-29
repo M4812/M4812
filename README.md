@@ -22,9 +22,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=M4812&theme=radical" height="180" alt="Top Langs" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=M4812&layout=compact&theme=radical&hide=javascript,html,css" height="180" alt="Top Langs" />
 </p>
 
 ---
 
-<p align="center"><i>"Always believe that something wonderful is about to happen. "</i></p>
+<p align="center"><i>"Always believe that something wonderful is about to happen."</i></p>
