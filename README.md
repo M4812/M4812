@@ -27,4 +27,4 @@
 
 ---
 
-<p align="center"><i>"Code for myself. Tools for efficiency."</i></p>
+<p align="center"><i>"Always believe that something wonderful is about to happen. "</i></p>
