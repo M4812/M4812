@@ -22,7 +22,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=M4812&layout=compact&theme=radical&hide=javascript,html,css" height="180" alt="Top Langs" />
+  <img src="https://img.shields.io/badge/Main_Language-C%23-green?style=flat-square&logo=c-sharp" alt="C#" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Scripts-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
 ---
