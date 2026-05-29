@@ -22,9 +22,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Main_Language-C%23-green?style=flat-square&logo=c-sharp" alt="C#" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Scripts-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Main_Language-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="35" alt="C#" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Scripts-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35" alt="JavaScript" />
 </p>
 
 ---
