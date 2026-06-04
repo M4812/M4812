@@ -2,7 +2,7 @@
 
 ### 🛠️ My Personal Tech Lab
 
-这里主要用来存放和测试我自己写的一些自用工具、自动化脚本，以及前端和 AI 领域的日常踩坑试验场。
+这里主要用来存放和测试我自己写的一些自用工具、自动化脚本，以及前端的日常踩坑试验场。
 
 - 💻 **Focus on**: AI Tools / Scripts / Frontend Layouts / Utility Tools
 - ⚙️ **Workflow**: Writing code for efficiency, testing ideas, and building personal wheels.
