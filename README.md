@@ -1,4 +1,4 @@
-# Hi, I'm Muhan 👋
+# Muhan 👋
 
 ### 🛠️ My Personal Tech Lab
 
