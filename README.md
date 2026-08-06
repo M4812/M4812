@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=M4812&theme=radical" height="180" alt="Top Langs" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=M4812&layout=compact&langs_count=8&theme=radical" height="180" alt="Top Langs" />
 </p>
 
 ---
